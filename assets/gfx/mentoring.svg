@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70" height="70" viewBox="0 0 70 70">
+    <defs>
+        <style>.a{fill:#7DD9AF;}</style>
+    </defs>
+    <path class="a"
+          d="M39,39A17.5,17.5,0,1,0,21.5,21.5,17.5,17.5,0,0,0,39,39Zm0,8.75c-11.681,0-35,5.863-35,17.5V74H74V65.25C74,53.613,50.681,47.75,39,47.75Z"
+          transform="translate(-4 -4)"/>
+</svg>
