@@ -1,0 +1,1 @@
+The organization has rejected your application. This is maybe because you have too little skills for this opportunity.

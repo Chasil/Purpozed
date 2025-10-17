@@ -1,0 +1,1 @@
+The organization has rejected your application. This should only happen if you and the organization have found out in a conversation that this is not the right engagement for you. Please contact us if such a conversation didn't have occured.

@@ -1,0 +1,1 @@
+Volunteer deleted account and opportunity id <?php echo $requestedOpportunityId ?> has beed canceled.
