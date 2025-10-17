@@ -1,0 +1,2788 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Purpozed\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-09 12:19+0000\n"
+"PO-Revision-Date: 2020-12-09 12:48+0000\n"
+"Last-Translator: Mateusz Wójcik\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.6; wp-5.5"
+
+#: views/organization/manage-opportunity.php:275
+msgid ""
+" You find the contact data of the volunteer in the opportunity section "
+"\"Currently engaged volunteers\"."
+msgstr ""
+
+#: views/organization/opportunity/mentoring.php:87
+#: views/organization/opportunity/engagement.php:95
+#: views/organization/opportunity/engagement.php:143
+#: views/admin/opportunity/mentoring.php:87
+#: views/admin/opportunity/engagement.php:93
+#: views/admin/opportunity/engagement.php:141
+msgid "1 hour"
+msgstr ""
+
+#: views/organization/opportunity/mentoring.php:104
+#: views/organization/opportunity/engagement.php:112
+#: views/admin/opportunity/mentoring.php:104
+#: views/admin/opportunity/engagement.php:110
+msgid "12 weeks"
+msgstr ""
+
+#: views/organization/opportunity/mentoring.php:88
+#: views/organization/opportunity/engagement.php:96
+#: views/organization/opportunity/engagement.php:144
+#: views/admin/opportunity/mentoring.php:88
+#: views/admin/opportunity/engagement.php:94
+#: views/admin/opportunity/engagement.php:142
+msgid "2 hours"
+msgstr ""
+
+#: views/organization/opportunity/mentoring.php:105
+#: views/organization/opportunity/engagement.php:113
+#: views/admin/opportunity/mentoring.php:105
+#: views/admin/opportunity/engagement.php:111
+msgid "24 weeks"
+msgstr ""
+
+#: views/organization/opportunity/mentoring.php:89
+#: views/organization/opportunity/engagement.php:97
+#: views/organization/opportunity/engagement.php:145
+#: views/admin/opportunity/mentoring.php:89
+#: views/admin/opportunity/engagement.php:95
+#: views/admin/opportunity/engagement.php:143
+msgid "3 hours"
+msgstr ""
+
+#: views/organization/opportunity/mentoring.php:90
+#: views/organization/opportunity/engagement.php:98
+#: views/organization/opportunity/engagement.php:146
+#: views/admin/opportunity/mentoring.php:90
+#: views/admin/opportunity/engagement.php:96
+#: views/admin/opportunity/engagement.php:144
+msgid "4 hours"
+msgstr ""
+
+#: views/organization/opportunity/mentoring.php:106
+#: views/organization/opportunity/engagement.php:114
+#: views/admin/opportunity/mentoring.php:106
+#: views/admin/opportunity/engagement.php:112
+msgid "48 week"
+msgstr ""
+
+#: views/organization/opportunity/mentoring.php:91
+#: views/organization/opportunity/engagement.php:99
+#: views/organization/opportunity/engagement.php:147
+#: views/admin/opportunity/mentoring.php:91
+#: views/admin/opportunity/engagement.php:97
+#: views/admin/opportunity/engagement.php:145
+msgid "5 hours"
+msgstr ""
+
+#: views/organization/opportunity/mentoring.php:92
+#: views/organization/opportunity/engagement.php:100
+#: views/organization/opportunity/engagement.php:148
+#: views/admin/opportunity/mentoring.php:92
+#: views/admin/opportunity/engagement.php:98
+#: views/admin/opportunity/engagement.php:146
+msgid "6 hours"
+msgstr ""
+
+#: views/organization/opportunity/mentoring.php:93
+#: views/organization/opportunity/engagement.php:101
+#: views/organization/opportunity/engagement.php:149
+#: views/admin/opportunity/mentoring.php:93
+#: views/admin/opportunity/engagement.php:99
+#: views/admin/opportunity/engagement.php:147
+msgid "7 hours"
+msgstr ""
+
+#: views/organization/opportunity/mentoring.php:94
+#: views/organization/opportunity/engagement.php:102
+#: views/organization/opportunity/engagement.php:150
+#: views/admin/opportunity/mentoring.php:94
+#: views/admin/opportunity/engagement.php:100
+#: views/admin/opportunity/engagement.php:148
+msgid "8 hours"
+msgstr ""
+
+#: views/organization/opportunity/dashboard.php:48
+msgid "A Helping Hand for an"
+msgstr ""
+
+#: templates/registerorganization.php:86 views/organization/profile.php:50
+#: views/organization/settings.php:96
+#: views/organization/organization-profile-preview.php:45
+#: views/company/settings.php:123 views/admin/users/editCompany.php:114
+msgid "About"
+msgstr ""
+
+#: views/volunteer/profile.php:62 views/volunteer/settings.php:145
+#: views/volunteer/volunteer-profile-preview.php:81
+msgid "About me"
+msgstr ""
+
+#: templates/registerorganization.php:88 views/volunteer/settings.php:149
+#: views/volunteer/settings.php:219
+msgid "About must have max 500 characters and can not be empty"
+msgstr ""
+
+#: views/volunteer/opportunities/organziation-info.php:1
+#: views/volunteer/evaluate/organziation-info.php:1
+#: views/organization/opportunity/call.php:260
+#: views/organization/opportunity/project.php:235
+#: views/organization/opportunity/mentoring.php:268
+#: views/organization/opportunity/engagement.php:327
+#: views/organization/opportunities/call.php:39
+#: views/organization/opportunities/project.php:37
+#: views/organization/opportunities/mentoring.php:31
+#: views/organization/opportunities/engagement.php:39
+#: views/organization/manage/call.php:45
+#: views/organization/manage/project.php:37
+#: views/organization/manage/mentoring.php:35
+#: views/organization/manage/engagement.php:39
+msgid "About the organization"
+msgstr ""
+
+#: views/volunteer/settings.php:47 views/organization/settings.php:45
+msgid "Account"
+msgstr ""
+
+#: views/admin/opportunity/sidebar.php:22
+msgid "ACTIVATE NOW"
+msgstr ""
+
+#: views/admin/opportunity/sidebar.php:4
+msgid "ACTIVATE OPPORTUNITY"
+msgstr ""
+
+#: views/company/company-area.php:47 views/company/company-area.php:74
+msgid "Active Employees"
+msgstr ""
+
+#: views/company/company-area.php:7 views/company/company-area.php:13
+msgid "Activity"
+msgstr ""
+
+#: views/company/company-area.php:178
+msgid "Activity Score"
+msgstr ""
+
+#: views/volunteer/settings.php:212
+msgid "Add experiences manually"
+msgstr ""
+
+#: views/volunteer/opportunities/project.php:111
+#: views/volunteer/evaluate/project.php:41
+#: views/organization/opportunity/project.php:233
+#: views/organization/opportunities/call.php:34
+#: views/organization/opportunities/project.php:35
+#: views/organization/manage/project.php:34
+#: views/admin/opportunity/project.php:185
+msgid "Additional Details"
+msgstr ""
+
+#: templates/thankyou.php:13
+msgid "Almost done"
+msgstr ""
+
+#: views/volunteer/settings.php:10 views/organization/settings.php:10
+#: views/company/settings.php:10
+msgid "An Email has been changed. Check your inbox for details"
+msgstr ""
+
+#: templates/passwordreset.php:15 templates/regenerateconfirmation.php:18
+msgid "An email has been sent. Check your inbox."
+msgstr ""
+
+#: views/volunteer/settings.php:14 views/organization/settings.php:14
+#: views/company/settings.php:14
+msgid "An error occured. An email has not been changed. Try reset it here"
+msgstr ""
+
+#: views/volunteer/settings.php:22 views/organization/settings.php:22
+#: views/company/settings.php:22 views/admin/users/editCompany.php:13
+msgid "An error occured. Try again"
+msgstr ""
+
+#: views/organization/opportunity/dashboard.php:8
+msgid "An Expert for a"
+msgstr ""
+
+#: templates/register.php:160 templates/registerorganization.php:210
+msgid "and the"
+msgstr ""
+
+#: views/company/company-area.php:179
+msgid "Applied"
+msgstr ""
+
+#: views/volunteer/dashboard.php:332
+msgid ""
+"Applied. These are opportunities you have applied for. Waiting for approval"
+msgstr ""
+
+#: views/volunteer/opportunities/sidebar.php:193
+msgid "APPLY NOW"
+msgstr ""
+
+#: views/organization/opportunity/call.php:247
+msgid "Approx 1 hour"
+msgstr ""
+
+#: views/volunteer/opportunities/sidebar.php:217
+msgid "Are you sure you want to apply for that opportunity"
+msgstr ""
+
+#: views/volunteer/opportunities/sidebar.php:303
+msgid "Are you sure you want to bookmark this opportunity"
+msgstr ""
+
+#: views/volunteer/evaluate/sidebar.php:178
+msgid "Are you sure you want to evaluate this opportunity"
+msgstr ""
+
+#: views/volunteer/opportunities/sidebar.php:356
+msgid "Are you sure you want to remove this opportunity from the list?"
+msgstr ""
+
+#: views/volunteer/opportunities/mentoring.php:62
+msgid "Area of Expertise"
+msgstr ""
+
+#: views/volunteer/dashboard.php:999
+#: views/volunteer/opportunities/sidebar.php:198
+msgid "ASK A QUESTION"
+msgstr ""
+
+#: views/organization/opportunity/engagement.php:175
+#: views/admin/opportunity/engagement.php:173
+msgid "At the moment we would appreciate the following number of volunteers"
+msgstr ""
+
+#: templates/register.php:133 templates/register.php:167
+#: templates/registerorganization.php:142
+#: templates/registerorganization.php:217
+#: views/volunteer/evaluate/sidebar.php:24
+#: views/volunteer/evaluate/sidebar.php:94
+#: views/volunteer/evaluate/sidebar.php:165
+#: views/organization/opportunity/call.php:121
+#: views/organization/opportunity/call.php:160
+#: views/organization/opportunity/call.php:179
+#: views/organization/opportunity/call.php:188
+#: views/organization/opportunity/project.php:143
+#: views/organization/opportunity/project.php:162
+#: views/organization/opportunity/project.php:171
+#: views/organization/opportunity/mentoring.php:130
+#: views/organization/opportunity/mentoring.php:169
+#: views/organization/opportunity/mentoring.php:188
+#: views/organization/opportunity/mentoring.php:197
+#: views/organization/opportunity/engagement.php:183
+#: views/organization/opportunity/engagement.php:224
+#: views/organization/opportunity/engagement.php:243
+#: views/organization/opportunity/engagement.php:252
+#: views/admin/opportunity/call.php:105 views/admin/opportunity/call.php:144
+#: views/admin/opportunity/project.php:138
+#: views/admin/opportunity/mentoring.php:130
+#: views/admin/opportunity/mentoring.php:169
+#: views/admin/opportunity/engagement.php:179
+#: views/admin/opportunity/engagement.php:218
+#: views/admin/opportunity/sidebar.php:9
+msgid "BACK"
+msgstr ""
+
+#: views/volunteer/opportunities/sidebar.php:206
+msgid "BOOKMARK"
+msgstr ""
+
+#: views/volunteer/dashboard.php:1299
+msgid "Bookmarked"
+msgstr ""
+
+#: views/volunteer/opportunities/project.php:103
+#: views/volunteer/evaluate/project.php:33
+#: views/organization/opportunities/call.php:27
+#: views/organization/opportunities/project.php:27
+#: views/organization/manage/project.php:26
+msgid "Brief Description"
+msgstr ""
+
+#: views/organization/opportunity/call.php:70
+#: views/organization/opportunity/call.php:248
+#: views/organization/opportunity/project.php:66
+#: views/organization/opportunity/project.php:231
+#: views/admin/opportunity/project.php:177
+msgid "Brief description"
+msgstr ""
+
+#: views/volunteer/opportunities/sidebar.php:157
+msgid "but the organization did not comment it yet"
+msgstr ""
+
+#: views/organization/manage-opportunity.php:723
+msgid ""
+"By clicking on \"Request\" the volunteer will get a notification about your "
+"request and will asked to either taking over the opportunity or rejecting "
+"your request. After this you will get informed about the volunteer's "
+"decision."
+msgstr ""
+
+#: views/organization/manage-opportunity.php:255
+msgid ""
+"By clicking on \"Select volunteer\" the volunteer will receive a "
+"notification that it's opportunity has just started. After this you and the "
+"volunteer should make contact in order to talk about the upcoming steps."
+msgstr ""
+
+#: views/volunteer/opportunities/call.php:75
+#: views/volunteer/evaluate/call.php:72
+#: views/organization/opportunities/call.php:8
+#: views/organization/manage/call.php:5
+msgid "CALL"
+msgstr ""
+
+#: views/organization/opportunity/dashboard.php:15
+msgid "Call"
+msgstr ""
+
+#: views/admin/opportunity/call.php:189
+msgid "Call Process"
+msgstr ""
+
+#: views/volunteer/opportunities/call.php:116
+#: views/volunteer/evaluate/call.php:105 views/organization/manage/call.php:39
+msgid "Call process"
+msgstr ""
+
+#: views/volunteer/dashboard.php:964 views/organization/dashboard.php:329
+#: views/organization/dashboard.php:473 views/organization/dashboard.php:625
+#: views/organization/manage-opportunity.php:104
+#: views/organization/manage-opportunity.php:134
+#: views/organization/manage-opportunity.php:220
+#: views/organization/manage-opportunity.php:260
+#: views/organization/manage-opportunity.php:344
+#: views/organization/manage-opportunity.php:728
+#: views/volunteer/opportunities/sidebar.php:92
+#: views/volunteer/opportunities/sidebar.php:224
+#: views/volunteer/opportunities/sidebar.php:259
+#: views/volunteer/opportunities/sidebar.php:309
+#: views/volunteer/opportunities/sidebar.php:363
+#: views/volunteer/opportunities/sidebar.php:397
+#: views/volunteer/opportunities/sidebar.php:433
+#: views/volunteer/opportunities/sidebar.php:456
+#: views/volunteer/evaluate/sidebar.php:187
+#: views/organization/opportunity/call.php:212
+#: views/organization/opportunity/project.php:195
+#: views/organization/opportunity/mentoring.php:221
+#: views/organization/opportunity/engagement.php:276
+#: views/organization/opportunities/sidebar.php:46
+#: views/organization/opportunities/sidebar.php:98
+#: views/organization/manage/sidebar.php:34
+#: views/organization/manage/sidebar.php:65
+#: views/admin/opportunity/sidebar.php:23
+msgid "CANCEL"
+msgstr ""
+
+#: views/volunteer/dashboard.php:944
+msgid "CANCEL PREMATURELY"
+msgstr ""
+
+#: views/volunteer/settings.php:257 views/organization/settings.php:225
+msgid "Change password"
+msgstr ""
+
+#: views/organization/opportunity/engagement.php:142
+#: views/admin/opportunity/engagement.php:140
+msgid "Choose time"
+msgstr ""
+
+#: templates/registerorganization.php:72 views/volunteer/settings.php:116
+#: views/organization/settings.php:81 views/company/settings.php:101
+#: views/admin/users/editCompany.php:84
+msgid "CITY"
+msgstr ""
+
+#: templates/registerorganization.php:75 views/volunteer/settings.php:119
+#: views/organization/settings.php:84 views/company/settings.php:104
+#: views/admin/users/editCompany.php:87
+msgid "City must contain letters only (min: 2, max: 50)"
+msgstr ""
+
+#: views/organization/opportunity/call.php:66
+#: views/organization/opportunity/project.php:62
+msgid "Click here"
+msgstr ""
+
+#: views/volunteer/dashboard.php:1031
+#: views/volunteer/volunteer-profile-preview.php:50
+#: views/organization/dashboard.php:343 views/organization/dashboard.php:487
+#: views/organization/dashboard.php:639
+#: views/organization/manage-opportunity.php:118
+#: views/organization/manage-opportunity.php:234
+#: views/organization/manage-opportunity.php:278
+#: views/organization/manage-opportunity.php:358
+#: views/organization/manage-opportunity.php:742
+#: views/volunteer/opportunities/sidebar.php:293
+#: views/volunteer/opportunities/sidebar.php:325
+#: views/volunteer/opportunities/sidebar.php:346
+#: views/organization/opportunity/call.php:227
+#: views/organization/opportunity/call.php:305
+#: views/organization/opportunity/project.php:210
+#: views/organization/opportunity/project.php:280
+#: views/organization/opportunity/mentoring.php:236
+#: views/organization/opportunity/engagement.php:291
+#: views/organization/opportunities/sidebar.php:60
+#: views/organization/opportunities/sidebar.php:112
+#: views/organization/manage/sidebar.php:47
+#: views/organization/manage/sidebar.php:78
+msgid "CLOSE"
+msgstr ""
+
+#: views/volunteer/opportunities/sidebar.php:454
+msgid "COMMENT ON CANCELLATION"
+msgstr ""
+
+#: views/volunteer/settings.php:135
+msgid "Comments visible"
+msgstr ""
+
+#: views/volunteer/settings.php:230
+msgid "Communication"
+msgstr ""
+
+#: views/company/settings.php:78 views/admin/users/editCompany.php:61
+msgid "COMPANY ID"
+msgstr ""
+
+#: templates/register.php:23
+msgid "Company ID doesnt exists"
+msgstr ""
+
+#: views/admin/users/editCompany.php:20
+msgid "Company ID exists"
+msgstr ""
+
+#: views/admin/users/editCompany.php:17
+msgid "Company ID must contain from 2 to 10 digits only"
+msgstr ""
+
+#: models/validation.php:40
+msgid "Company ID must contain from 2 to 10 digits only."
+msgstr ""
+
+#: templates/register.php:88
+msgid "Company ID must contain numbers only"
+msgstr ""
+
+#: views/volunteer/settings.php:105
+msgid "Company Key/Id may containt numbers only (min: 8, max: 15 chars)"
+msgstr ""
+
+#: views/company/settings.php:70 views/admin/users/editCompany.php:53
+msgid "COMPANY NAME"
+msgstr ""
+
+#: views/company/settings.php:7 views/admin/users/editCompany.php:8
+msgid "Company Settings"
+msgstr ""
+
+#: views/company/company-area.php:10
+msgid "Company Skills"
+msgstr ""
+
+#: views/organization/manage-opportunity.php:128
+#: views/volunteer/opportunities/sidebar.php:88
+msgid "COMPLETE"
+msgstr ""
+
+#: views/volunteer/dashboard.php:940
+msgid "COMPLETE OPPORTUNITY"
+msgstr ""
+
+#: views/organization/dashboard.php:504
+#: views/organization/manage-opportunity.php:74
+msgid "Completed"
+msgstr ""
+
+#: views/volunteer/opportunities/sidebar.php:269
+msgid "Congratulation your opportunity has just started!"
+msgstr ""
+
+#: views/organization/manage-opportunity.php:269
+msgid "Congratulation, You have selected the volunteer successfully!"
+msgstr ""
+
+#: views/volunteer/volunteer-profile-preview.php:32
+msgid "CONTACT"
+msgstr ""
+
+#: views/organization/opportunity/call.php:22
+#: views/organization/opportunity/project.php:16
+#: views/organization/opportunity/mentoring.php:22
+#: views/organization/opportunity/engagement.php:22
+#: views/admin/opportunity/call.php:22 views/admin/opportunity/project.php:16
+#: views/admin/opportunity/mentoring.php:22
+#: views/admin/opportunity/engagement.php:22
+msgid "Contact"
+msgstr ""
+
+#: templates/registerorganization.php:44
+msgid "Contact Person"
+msgstr ""
+
+#: templates/register.php:27 templates/registerorganization.php:25
+msgid "Creating account error. Please try again or contact us"
+msgstr ""
+
+#: views/company/company-area.php:180
+msgid "Current Opportunities"
+msgstr ""
+
+#: views/volunteer/settings.php:260
+msgid "CURRENT PASSWORD"
+msgstr ""
+
+#: views/organization/dashboard.php:452
+#: views/organization/manage-opportunity.php:71
+msgid "Currently engaged volunteers"
+msgstr ""
+
+#: views/organization/dashboard.php:649
+msgid "Currently there are no completed opportunites"
+msgstr ""
+
+#: views/organization/dashboard.php:497
+msgid "Currently there are no opportunites in progress"
+msgstr ""
+
+#: views/organization/dashboard.php:353
+msgid "Currently there are no saved or reviewed opportunites"
+msgstr ""
+
+#: views/organization/manage-opportunity.php:287
+#: views/organization/manage-opportunity.php:750
+msgid "Currently there are no volunteers applied for this opportunity"
+msgstr ""
+
+#: views/organization/manage-opportunity.php:366
+#: views/organization/manage-opportunity.php:788
+#: views/organization/manage-opportunity.php:830
+msgid "Currently there are no volunteers requested for this opportunity"
+msgstr ""
+
+#: views/organization/opportunity/call.php:194
+#: views/organization/opportunity/project.php:177
+#: views/organization/opportunity/mentoring.php:203
+#: views/organization/opportunity/engagement.php:258
+#: views/organization/opportunities/sidebar.php:32
+#: views/organization/manage/sidebar.php:22
+msgid "DELETE"
+msgstr ""
+
+#: views/volunteer/settings.php:252 views/organization/settings.php:251
+msgid "DELETE ACCOUNT"
+msgstr ""
+
+#: views/organization/dashboard.php:328 views/organization/dashboard.php:472
+#: views/organization/dashboard.php:624
+#: views/organization/opportunity/call.php:211
+#: views/organization/opportunity/project.php:194
+#: views/organization/opportunity/mentoring.php:220
+#: views/organization/opportunity/engagement.php:275
+#: views/organization/opportunities/sidebar.php:45
+#: views/organization/manage/sidebar.php:33
+msgid "DELETE OPPORTUNITY"
+msgstr ""
+
+#: views/organization/dashboard.php:320 views/organization/dashboard.php:464
+#: views/organization/dashboard.php:616
+#: views/organization/opportunity/call.php:204
+#: views/organization/opportunity/project.php:187
+#: views/organization/opportunity/mentoring.php:213
+#: views/organization/opportunity/engagement.php:268
+#: views/organization/opportunities/sidebar.php:39
+#: views/organization/manage/sidebar.php:28
+msgid "Delete opportunity"
+msgstr ""
+
+#: views/volunteer/dashboard.php:103 views/volunteer/dashboard.php:179
+#: views/volunteer/dashboard.php:248 views/volunteer/dashboard.php:317
+#: views/volunteer/dashboard.php:581 views/volunteer/dashboard.php:836
+#: views/volunteer/dashboard.php:1289 views/volunteer/dashboard.php:1542
+#: views/organization/manage/oportunity-details-top.php:85
+msgid "DETAILS"
+msgstr ""
+
+#: views/organization/opportunity/call.php:62
+#: views/organization/opportunity/project.php:58
+msgid "Didn't find your topic above? Please contact Administrator"
+msgstr ""
+
+#: views/organization/opportunity/engagement.php:121
+#: views/admin/opportunity/engagement.php:119
+msgid "Do Volunteers Need a Training in Advance"
+msgstr ""
+
+#: views/organization/opportunity/project.php:229
+#: views/admin/opportunity/project.php:173
+msgid "Duration"
+msgstr ""
+
+#: views/volunteer/opportunities/call.php:100
+#: views/volunteer/opportunities/project.php:97
+#: views/volunteer/opportunities/mentoring.php:76
+#: views/volunteer/opportunities/engagement.php:80
+#: views/volunteer/evaluate/call.php:89 views/volunteer/evaluate/project.php:27
+#: views/volunteer/evaluate/mentoring.php:28
+#: views/volunteer/evaluate/engagement.php:32
+#: views/organization/opportunity/call.php:246
+#: views/organization/opportunity/mentoring.php:258
+#: views/organization/opportunity/engagement.php:313
+#: views/organization/opportunities/call.php:22
+#: views/organization/opportunities/project.php:21
+#: views/organization/opportunities/mentoring.php:21
+#: views/organization/opportunities/engagement.php:25
+#: views/organization/manage/call.php:23
+#: views/organization/manage/project.php:20
+#: views/organization/manage/mentoring.php:20
+#: views/organization/manage/engagement.php:24
+#: views/admin/opportunity/call.php:179
+#: views/admin/opportunity/mentoring.php:208
+#: views/admin/opportunity/engagement.php:260
+msgid "Duration & Time Frame"
+msgstr ""
+
+#: views/organization/opportunity/engagement.php:139
+#: views/admin/opportunity/engagement.php:137
+msgid "Duration of training"
+msgstr ""
+
+#: views/volunteer/opportunities/engagement.php:85
+#: views/volunteer/evaluate/engagement.php:37
+#: views/organization/opportunity/engagement.php:92
+#: views/organization/opportunity/engagement.php:318
+#: views/organization/opportunities/engagement.php:30
+#: views/organization/manage/engagement.php:29
+#: views/admin/opportunity/engagement.php:90
+#: views/admin/opportunity/engagement.php:266
+msgid "Duration per Engagement"
+msgstr ""
+
+#: views/volunteer/opportunities/mentoring.php:81
+#: views/volunteer/evaluate/mentoring.php:33
+#: views/organization/opportunity/mentoring.php:84
+#: views/organization/opportunity/mentoring.php:263
+#: views/organization/opportunities/mentoring.php:26
+#: views/organization/manage/mentoring.php:27
+#: views/admin/opportunity/mentoring.php:84
+#: views/admin/opportunity/mentoring.php:215
+msgid "Duration per Meeting"
+msgstr ""
+
+#: views/admin/users/editCompany.php:106
+msgid "E-MAIL"
+msgstr ""
+
+#: views/organization/opportunity/call.php:145
+#: views/organization/opportunity/project.php:128
+#: views/organization/opportunity/mentoring.php:154
+#: views/organization/opportunity/engagement.php:209
+#: views/admin/opportunity/call.php:129 views/admin/opportunity/project.php:123
+#: views/admin/opportunity/mentoring.php:154
+#: views/admin/opportunity/engagement.php:203
+msgid "E-mail"
+msgstr ""
+
+#: views/login-form.php:11
+msgid "E-MAIL ADDRESS"
+msgstr ""
+
+#: views/volunteer/settings.php:233
+msgid "E-MAIL ADDRESS (=USERNAME)"
+msgstr ""
+
+#: views/volunteer/profile.php:41 views/volunteer/profile.php:52
+#: views/volunteer/profile.php:63 views/volunteer/profile.php:72
+#: views/volunteer/profile.php:83 views/organization/profile.php:34
+#: views/organization/profile.php:51 views/organization/profile.php:60
+#: views/organization/profile.php:72
+#: views/organization/manage-opportunity.php:82
+msgid "EDIT"
+msgstr ""
+
+#: views/volunteer/profile.php:32 views/organization/profile.php:25
+msgid "Edit profile"
+msgstr ""
+
+#: views/organization/opportunities/sidebar.php:27
+#: views/organization/manage/sidebar.php:20
+msgid "EDIT/WITHDRAW"
+msgstr ""
+
+#: views/volunteer/dashboard.php:1026
+#: views/volunteer/volunteer-profile-preview.php:46
+#: views/volunteer/opportunities/sidebar.php:342
+#: views/organization/opportunity/call.php:300
+#: views/organization/opportunity/project.php:275
+msgid "Email"
+msgstr ""
+
+#: templates/registerorganization.php:171
+msgid "EMAIL ADDRESS (PROFESSIONAL) = USERNAME"
+msgstr ""
+
+#: templates/confirmregistration.php:13
+msgid "Email confirmation"
+msgstr ""
+
+#: templates/register.php:18
+msgid "Email or Login already exists."
+msgstr ""
+
+#: templates/registerorganization.php:18
+msgid "Email or login already exists."
+msgstr ""
+
+#: views/company/company-area.php:9 views/company/company-area.php:171
+#: views/company/company-employees.php:8
+msgid "Employees"
+msgstr ""
+
+#: views/company/company-area.php:78 views/company/company-area.php:105
+msgid "Engaged Employees"
+msgstr ""
+
+#: views/volunteer/opportunities/engagement.php:54
+#: views/organization/opportunities/engagement.php:8
+#: views/organization/manage/engagement.php:5
+msgid "ENGAGEMENT"
+msgstr ""
+
+#: views/organization/opportunity/dashboard.php:55
+msgid "Engagement"
+msgstr ""
+
+#: views/volunteer/opportunities/engagement.php:83
+#: views/volunteer/evaluate/engagement.php:35
+#: views/organization/opportunity/engagement.php:80
+#: views/organization/opportunity/engagement.php:316
+#: views/organization/opportunities/engagement.php:28
+#: views/organization/manage/engagement.php:27
+#: views/admin/opportunity/engagement.php:78
+#: views/admin/opportunity/engagement.php:263
+msgid "Engagement Frequency"
+msgstr ""
+
+#: views/password-reset.php:5
+msgid "Enter E-mail"
+msgstr ""
+
+#: views/login-form.php:14
+msgid "ENTER PASSWORD"
+msgstr ""
+
+#: templates/regenerateconfirmation.php:33
+msgid "Enter your email to get activation link"
+msgstr ""
+
+#: templates/passwordreset.php:30 views/password-reset.php:3
+msgid "Enter your email to get new password"
+msgstr ""
+
+#: views/volunteer/dashboard.php:962
+#: views/volunteer/opportunities/sidebar.php:431
+msgid "EVALUATE NOW"
+msgstr ""
+
+#: views/organization/manage-opportunity.php:142
+msgid "EVALUATION"
+msgstr ""
+
+#: views/organization/opportunity/mentoring.php:77
+#: views/organization/opportunity/engagement.php:85
+#: views/admin/opportunity/mentoring.php:77
+#: views/admin/opportunity/engagement.php:83
+msgid "Every month"
+msgstr ""
+
+#: views/organization/opportunity/mentoring.php:76
+#: views/organization/opportunity/engagement.php:84
+#: views/admin/opportunity/mentoring.php:76
+#: views/admin/opportunity/engagement.php:82
+msgid "Every two weeks"
+msgstr ""
+
+#: views/organization/opportunity/mentoring.php:75
+#: views/organization/opportunity/engagement.php:83
+#: views/admin/opportunity/mentoring.php:75
+#: views/admin/opportunity/engagement.php:81
+msgid "Every week"
+msgstr ""
+
+#: views/volunteer/opportunities/mentoring.php:72
+#: views/volunteer/evaluate/mentoring.php:24
+#: views/organization/opportunity/mentoring.php:256
+#: views/organization/opportunities/mentoring.php:17
+#: views/organization/manage/mentoring.php:16
+#: views/admin/opportunity/mentoring.php:204
+msgid "Expectations"
+msgstr ""
+
+#: views/volunteer/opportunities/project.php:109
+#: views/volunteer/evaluate/project.php:39
+#: views/organization/opportunities/call.php:29
+#: views/organization/opportunities/project.php:33
+#: views/organization/manage/project.php:32
+#: views/admin/opportunity/project.php:181
+msgid "Expected deliverables and Benefits"
+msgstr ""
+
+#: views/volunteer/profile.php:71 views/volunteer/settings.php:46
+#: views/volunteer/volunteer-profile-preview.php:89
+msgid "Experience"
+msgstr ""
+
+#: views/organization/opportunity/mentoring.php:10
+#: views/admin/opportunity/mentoring.php:10
+msgid "Expertise & Goal"
+msgstr ""
+
+#: views/volunteer/dashboard.php:326
+msgid "EXPLORE ALL OPPORTUNITIES"
+msgstr ""
+
+#: views/organization/opportunity/call.php:131
+#: views/organization/opportunity/project.php:114
+#: views/organization/opportunity/mentoring.php:140
+#: views/organization/opportunity/engagement.php:195
+#: views/admin/opportunity/call.php:115 views/admin/opportunity/project.php:109
+#: views/admin/opportunity/mentoring.php:140
+#: views/admin/opportunity/engagement.php:189
+msgid "First name"
+msgstr ""
+
+#: views/organization/dashboard.php:139 views/organization/dashboard.php:158
+#: views/organization/dashboard.php:178 views/organization/dashboard.php:194
+#: views/organization/manage-opportunity.php:69
+msgid "Fitting volunteers you can request"
+msgstr ""
+
+#: views/organization/opportunity/call.php:16
+#: views/admin/opportunity/call.php:16
+msgid "Focus & Goal"
+msgstr ""
+
+#: views/volunteer/settings.php:81
+msgid "FORENAME"
+msgstr ""
+
+#: templates/register.php:64 templates/registerorganization.php:152
+#: views/volunteer/settings.php:84 views/organization/settings.php:62
+#: views/organization/settings.php:187 views/company/settings.php:74
+#: views/company/settings.php:82 views/organization/opportunity/call.php:134
+#: views/organization/opportunity/call.php:141
+#: views/organization/opportunity/project.php:117
+#: views/organization/opportunity/project.php:124
+#: views/organization/opportunity/mentoring.php:143
+#: views/organization/opportunity/mentoring.php:150
+#: views/organization/opportunity/engagement.php:198
+#: views/organization/opportunity/engagement.php:205
+#: views/admin/users/editCompany.php:57 views/admin/users/editCompany.php:65
+#: views/admin/opportunity/call.php:118 views/admin/opportunity/call.php:125
+#: views/admin/opportunity/project.php:112
+#: views/admin/opportunity/project.php:119
+#: views/admin/opportunity/mentoring.php:143
+#: views/admin/opportunity/mentoring.php:150
+#: views/admin/opportunity/engagement.php:192
+#: views/admin/opportunity/engagement.php:199
+msgid "Forename must contain letters only (min: 2, max: 50)"
+msgstr ""
+
+#: models/validation.php:24
+msgid "Forename must contain letters only (min: 2, max: 50)."
+msgstr ""
+
+#: views/login-form.php:46 views/signup.php:20
+msgid "Forgot your password?"
+msgstr ""
+
+#: templates/confirmregistration.php:28 templates/regenerateconfirmation.php:24
+msgid "Go back to homepage"
+msgstr ""
+
+#: views/volunteer/opportunities/sidebar.php:279
+#: views/organization/opportunity/top-bar.php:12
+#: views/organization/opportunity/top-bar.php:22
+#: views/admin/opportunity/top-bar.php:10
+msgid "GO TO DASHBOARD"
+msgstr ""
+
+#: views/organization/opportunity/call.php:252
+#: views/admin/opportunity/call.php:185
+msgid "Goal of the Call"
+msgstr ""
+
+#: views/volunteer/opportunities/call.php:110
+#: views/volunteer/evaluate/call.php:99 views/organization/manage/call.php:33
+msgid "Goal of the call"
+msgstr ""
+
+#: templates/register.php:40 templates/registerorganization.php:38
+#: views/volunteer/profile.php:51
+#: views/volunteer/volunteer-profile-preview.php:71
+#: views/organization/profile.php:33
+#: views/organization/organization-profile-preview.php:28
+#: views/company/company-area.php:8 views/company/company-area.php:156
+msgid "Goals"
+msgstr ""
+
+#: views/volunteer/settings.php:45
+msgid "Goals & Skills"
+msgstr ""
+
+#: views/organization/manage-opportunity.php:253
+#: views/organization/manage-opportunity.php:721
+msgid "Great that you found the right volunteer for your opportunity"
+msgstr ""
+
+#: views/volunteer/dashboard.php:954
+#: views/volunteer/opportunities/sidebar.php:423
+msgid "Great that you want to succeed this opportunity"
+msgstr ""
+
+#: views/volunteer/opportunities/sidebar.php:251
+msgid "Great that you want to take over this opportunity!"
+msgstr ""
+
+#: templates/confirmregistration.php:19 templates/confirmregistration.php:22
+#: templates/regenerateconfirmation.php:18
+#: templates/regenerateconfirmation.php:20
+msgid "here to login"
+msgstr ""
+
+#: views/volunteer/dashboard.php:33
+msgid "Hey, we found some matching opportunities for you"
+msgstr ""
+
+#: views/volunteer/opportunities/mentoring.php:78
+#: views/volunteer/opportunities/engagement.php:82
+#: views/volunteer/evaluate/mentoring.php:30
+#: views/volunteer/evaluate/engagement.php:34
+#: views/organization/opportunity/mentoring.php:115
+#: views/organization/opportunity/engagement.php:157
+#: views/organization/opportunities/mentoring.php:23
+#: views/organization/opportunities/engagement.php:27
+#: views/organization/manage/mentoring.php:22
+#: views/organization/manage/engagement.php:26
+#: views/admin/opportunity/mentoring.php:115
+#: views/admin/opportunity/mentoring.php:210
+#: views/admin/opportunity/engagement.php:155
+#: views/admin/opportunity/engagement.php:262
+msgid "hours"
+msgstr ""
+
+#: views/company/company-area.php:182
+msgid "Hours helped"
+msgstr ""
+
+#: views/volunteer/profile.php:19
+#: views/volunteer/volunteer-profile-preview.php:19
+msgid "hours helped"
+msgstr ""
+
+#: views/organization/opportunity/engagement.php:172
+#: views/admin/opportunity/engagement.php:170
+msgid "How many volunteers can take over this engagement"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://proformat.pl"
+msgstr ""
+
+#: templates/register.php:158 templates/registerorganization.php:208
+msgid "I accept the"
+msgstr ""
+
+#: views/admin/opportunity/sidebar.php:19
+msgid ""
+"If you activate an opportunity it changes in the Status \"OPEN\". Therefore "
+"volunteers can see it and apply for it. The organization who posted this "
+"opportunity can see matching volunteers and request them taking over this "
+"opportunity."
+msgstr ""
+
+#: views/organization/manage-opportunity.php:211
+msgid ""
+"If you dont need volunteers for this engagement anymore then please retract "
+"the engagement in order to avoid more applications from volunteers"
+msgstr ""
+
+#: views/organization/manage-opportunity.php:214
+msgid ""
+"If you want to select an other specyfic volunteer for this opportunity then "
+"you dont have to reject pending applications from this and other volunteers. "
+"If you select a volunteer then other volunteers will receive a friendly "
+"refusal automatically"
+msgstr ""
+
+#: views/organization/opportunity/call.php:293
+#: views/organization/opportunity/project.php:268
+msgid ""
+"If you would like to add a new Topic to the list kindly contact "
+"Administrator. Your request will be verified and if positively, it will soon "
+"appear possible to be chosen on the list. You will find the contact "
+"information enclosed below."
+msgstr ""
+
+#: views/organization/dashboard.php:360
+msgid "In progress"
+msgstr ""
+
+#: views/organization/opportunity/call.php:101
+#: views/admin/opportunity/call.php:85
+msgid "In short: What is the main goal of your call"
+msgstr ""
+
+#: templates/register.php:95 templates/registerorganization.php:175
+#: views/organization/opportunity/call.php:148
+#: views/organization/opportunity/project.php:131
+#: views/organization/opportunity/mentoring.php:157
+#: views/organization/opportunity/engagement.php:212
+#: views/admin/opportunity/call.php:132 views/admin/opportunity/project.php:126
+#: views/admin/opportunity/mentoring.php:157
+#: views/admin/opportunity/engagement.php:206
+msgid "Invalid email"
+msgstr ""
+
+#: models/validation.php:64
+msgid "Invalid email."
+msgstr ""
+
+#: views/company/company-area.php:39
+msgid "Invited Employees"
+msgstr ""
+
+#: views/organization/opportunity/call.php:110
+#: views/organization/opportunity/project.php:94
+#: views/organization/opportunity/mentoring.php:119
+#: views/organization/opportunity/engagement.php:161
+#: views/admin/opportunity/call.php:94 views/admin/opportunity/project.php:89
+#: views/admin/opportunity/mentoring.php:119
+#: views/admin/opportunity/engagement.php:159
+msgid "Is there an expiration date of this opportunity"
+msgstr ""
+
+#: views/volunteer/settings.php:95
+msgid "JOB TITLE"
+msgstr ""
+
+#: views/company/company-area.php:177
+msgid "Job title"
+msgstr ""
+
+#: templates/confirmregistration.php:27
+msgid "Key or id missing."
+msgstr ""
+
+#: views/volunteer/profile.php:82 views/volunteer/settings.php:153
+#: views/volunteer/volunteer-profile-preview.php:99
+msgid "Links"
+msgstr ""
+
+#: views/login-form.php:6 views/login-form.php:39 views/signup.php:17
+msgid "Login"
+msgstr ""
+
+#: templates/passwordreset.php:18
+msgid "Login here"
+msgstr ""
+
+#: templates/registerorganization.php:99 views/organization/settings.php:113
+#: views/company/settings.php:65
+msgid "LOGO UPLOAD"
+msgstr ""
+
+#: views/volunteer/opportunities/call.php:103
+#: views/volunteer/evaluate/call.php:92
+#: views/organization/opportunity/call.php:250
+#: views/organization/manage/call.php:26 views/admin/opportunity/call.php:181
+msgid "Main focus of the Call"
+msgstr ""
+
+#: views/organization/profile.php:39
+#: views/organization/organization-profile-preview.php:33
+msgid "Main goal"
+msgstr ""
+
+#: views/organization/dashboard.php:203 views/organization/dashboard.php:313
+#: views/organization/dashboard.php:457 views/organization/dashboard.php:609
+msgid "MANAGE"
+msgstr ""
+
+#: views/volunteer/opportunities/call.php:94
+#: views/volunteer/opportunities/project.php:91
+#: views/volunteer/opportunities/mentoring.php:66
+#: views/volunteer/opportunities/engagement.php:62
+msgid "Matched Goals"
+msgstr ""
+
+#: views/volunteer/opportunities/call.php:88
+#: views/volunteer/opportunities/project.php:85
+msgid "Matched Skills"
+msgstr ""
+
+#. Author of the plugin
+msgid "Mateusz Wójcik"
+msgstr ""
+
+#: views/organization/opportunity/engagement.php:39
+#: views/admin/opportunity/engagement.php:38
+msgid "Max 100 characters"
+msgstr ""
+
+#: views/organization/opportunity/call.php:107
+#: views/organization/opportunity/engagement.php:65
+#: views/admin/opportunity/call.php:91
+#: views/admin/opportunity/engagement.php:63
+msgid "Max. 200 characters"
+msgstr ""
+
+#: views/organization/opportunity/engagement.php:41
+#: views/admin/opportunity/engagement.php:40
+msgid "Max. 30 characters"
+msgstr ""
+
+#: views/organization/opportunity/project.php:78
+#: views/organization/opportunity/project.php:89
+#: views/organization/opportunity/mentoring.php:57
+#: views/admin/opportunity/project.php:73
+#: views/admin/opportunity/project.php:84
+#: views/admin/opportunity/mentoring.php:57
+msgid "Max. 300 characters"
+msgstr ""
+
+#: views/admin/opportunity/engagement.php:47
+#: views/admin/opportunity/engagement.php:55
+msgid "Max. 400 characters"
+msgstr ""
+
+#: templates/registerorganization.php:89 views/volunteer/settings.php:150
+#: views/volunteer/settings.php:220 views/organization/settings.php:100
+#: views/company/settings.php:127 views/admin/users/editCompany.php:118
+msgid "Max. 500 characters"
+msgstr ""
+
+#: views/organization/opportunity/engagement.php:48
+#: views/organization/opportunity/engagement.php:56
+msgid "Max. 600 characters"
+msgstr ""
+
+#: views/volunteer/opportunities/mentoring.php:79
+#: views/volunteer/evaluate/mentoring.php:31
+#: views/organization/opportunity/mentoring.php:72
+#: views/organization/opportunity/mentoring.php:261
+#: views/organization/opportunities/mentoring.php:24
+#: views/organization/manage/mentoring.php:24
+#: views/admin/opportunity/mentoring.php:72
+#: views/admin/opportunity/mentoring.php:212
+msgid "Meeting Frequency"
+msgstr ""
+
+#: views/volunteer/opportunities/mentoring.php:54
+#: views/volunteer/evaluate/mentoring.php:8
+#: views/organization/opportunities/mentoring.php:8
+#: views/organization/manage/mentoring.php:5
+msgid "MENTORING"
+msgstr ""
+
+#: views/organization/opportunity/dashboard.php:37
+msgid "Mentoring"
+msgstr ""
+
+#: views/volunteer/dashboard.php:847
+msgid "My current opportunities I am working on"
+msgstr ""
+
+#: views/volunteer/settings.php:125
+msgid "My Status: Ready for request"
+msgstr ""
+
+#: views/company/company-area.php:176
+msgid "Name"
+msgstr ""
+
+#: templates/registerorganization.php:54
+msgid "Name must contain letters only (min: 2, max: 20)"
+msgstr ""
+
+#: views/organization/settings.php:58
+msgid "NAME OF THE ORGANIZATION WITH LEGAL FORM"
+msgstr ""
+
+#: templates/registerorganization.php:50
+msgid "NAME OF THE ORGANIZATON WITH LEGAL FORM"
+msgstr ""
+
+#: views/volunteer/evaluate/mentoring.php:20
+#: views/organization/opportunity/mentoring.php:252
+#: views/organization/opportunities/mentoring.php:13
+#: views/organization/manage/mentoring.php:12
+#: views/admin/opportunity/mentoring.php:200
+msgid "Needed Expertise"
+msgstr ""
+
+#: views/volunteer/evaluate/project.php:19
+#: views/organization/opportunity/call.php:244
+#: views/organization/opportunity/project.php:227
+#: views/organization/opportunities/call.php:13
+#: views/organization/opportunities/project.php:13
+#: views/organization/manage/call.php:17
+#: views/organization/manage/project.php:12
+#: views/admin/opportunity/call.php:173 views/admin/opportunity/project.php:167
+msgid "Needed Skills"
+msgstr ""
+
+#: views/volunteer/settings.php:267 views/organization/settings.php:235
+msgid "NEW PASSWORD"
+msgstr ""
+
+#: templates/register.php:115 templates/register.php:134
+#: templates/registerorganization.php:110
+#: templates/registerorganization.php:143
+#: views/organization/opportunity/call.php:79
+#: views/organization/opportunity/call.php:122
+#: views/organization/opportunity/project.php:105
+#: views/organization/opportunity/mentoring.php:62
+#: views/organization/opportunity/mentoring.php:131
+#: views/organization/opportunity/engagement.php:70
+#: views/organization/opportunity/engagement.php:184
+#: views/admin/opportunity/call.php:63 views/admin/opportunity/call.php:106
+#: views/admin/opportunity/project.php:100
+#: views/admin/opportunity/mentoring.php:62
+#: views/admin/opportunity/mentoring.php:131
+#: views/admin/opportunity/engagement.php:68
+#: views/admin/opportunity/engagement.php:180
+msgid "NEXT"
+msgstr ""
+
+#: views/volunteer/opportunities/sidebar.php:448
+msgid ""
+"No problem. To cancel prematurely please tell us about the reason. If you "
+"cancel we will inform the organization in the coming minutes via E-Mail. You "
+"are welcome to start another opportunity any time!"
+msgstr ""
+
+#: views/login-form.php:43 views/password-reset.php:12
+msgid "Not registered yet? Create an account!"
+msgstr "Jawohl"
+
+#: views/volunteer/opportunities/engagement.php:90
+#: views/volunteer/evaluate/engagement.php:42
+#: views/organization/opportunities/engagement.php:35
+#: views/organization/manage/engagement.php:34
+msgid "Number of volnteers needed"
+msgstr ""
+
+#: views/organization/opportunity/engagement.php:323
+#: views/admin/opportunity/engagement.php:273
+msgid "Number of volunteers needed"
+msgstr ""
+
+#: views/volunteer/settings.php:142
+msgid ""
+"OFF: The management of your company cannot see any comments posted by "
+"organizations"
+msgstr ""
+
+#: views/volunteer/settings.php:132
+msgid ""
+"OFF: You are unvisible for organizations but you can apply for opportunities "
+"anytime"
+msgstr ""
+
+#: views/volunteer/opportunities/sidebar.php:241
+#: views/volunteer/opportunities/sidebar.php:379
+#: views/volunteer/opportunities/sidebar.php:413
+msgid "OK"
+msgstr ""
+
+#: views/organization/settings.php:228
+msgid "OLD PASSWORD"
+msgstr ""
+
+#: views/volunteer/settings.php:27 views/organization/settings.php:27
+#: views/company/settings.php:27
+msgid "Old password incorrect"
+msgstr ""
+
+#: views/volunteer/settings.php:129
+msgid ""
+"ON: Organization can see your profile when they have opportunities that "
+"match with your skills and/or Goals and are able to contact you"
+msgstr ""
+
+#: views/volunteer/settings.php:139
+msgid ""
+"ON: The management of your company can see the comments posted by "
+"organizations concerning the opportunities you have completed for them"
+msgstr ""
+
+#: views/organization/dashboard.php:19
+msgid "Open Opportunities"
+msgstr ""
+
+#: views/organization/profile.php:20
+#: views/organization/organization-profile-preview.php:20
+#: views/volunteer/opportunities/organziation-info.php:15
+#: views/volunteer/evaluate/organziation-info.php:15
+#: views/organization/opportunity/call.php:274
+#: views/organization/opportunity/project.php:249
+#: views/organization/opportunity/mentoring.php:281
+#: views/organization/opportunity/engagement.php:341
+#: views/organization/opportunities/call.php:54
+#: views/organization/opportunities/project.php:52
+#: views/organization/opportunities/mentoring.php:46
+#: views/organization/opportunities/engagement.php:54
+#: views/organization/manage/call.php:59
+#: views/organization/manage/project.php:51
+#: views/organization/manage/mentoring.php:49
+#: views/organization/manage/engagement.php:53
+msgid "open opportunities"
+msgstr ""
+
+#: views/company/company-area.php:165
+msgid "Opportunites"
+msgstr ""
+
+#: views/volunteer/opportunities/sidebar.php:97
+msgid "Opportunity already in progress"
+msgstr ""
+
+#: views/organization/manage-opportunity.php:62
+msgid "Opportunity details"
+msgstr ""
+
+#: views/volunteer/opportunities/sidebar.php:169
+msgid "Opportunity expired"
+msgstr ""
+
+#: views/volunteer/opportunities/sidebar.php:319
+msgid "Opportunity has been bookmarked"
+msgstr ""
+
+#: views/organization/opportunity/top-bar.php:25
+#: views/admin/opportunity/top-bar.php:13
+msgid "Opportunity not saved. Database error."
+msgstr ""
+
+#: views/volunteer/opportunities/sidebar.php:167
+msgid "Opportunity retracted"
+msgstr ""
+
+#: views/volunteer/opportunities/sidebar.php:151
+msgid "Opportunity succeeded"
+msgstr ""
+
+#: templates/registerorganization.php:32
+msgid "Organization"
+msgstr ""
+
+#: views/organization/settings.php:7
+msgid "Organization Settings"
+msgstr ""
+
+#: views/volunteer/evaluate/textareas.php:26
+#: views/volunteer/evaluate/textareas.php:48
+msgid "Organization's comment:"
+msgstr ""
+
+#: templates/register.php:102 templates/registerorganization.php:190
+#: views/volunteer/settings.php:37 views/volunteer/settings.php:263
+#: views/volunteer/settings.php:271 views/organization/settings.php:37
+#: views/organization/settings.php:231 views/organization/settings.php:239
+#: views/company/settings.php:37
+msgid "Password must have from 8 to 16 characters"
+msgstr ""
+
+#: templates/register.php:109 templates/registerorganization.php:197
+#: views/volunteer/settings.php:279 views/organization/settings.php:247
+msgid "Passwords mismatch"
+msgstr ""
+
+#: models/validation.php:74
+msgid "Passwords mismatch."
+msgstr ""
+
+#: views/volunteer/settings.php:32 views/organization/settings.php:32
+#: views/company/settings.php:32
+msgid "Passwords missmath"
+msgstr ""
+
+#: views/organization/dashboard.php:112
+#: views/organization/manage-opportunity.php:64
+msgid "Pending applications"
+msgstr ""
+
+#: views/organization/manage-opportunity.php:67
+msgid "Pending requests for you"
+msgstr ""
+
+#: views/organization/dashboard.php:117
+msgid "Pending requests from you"
+msgstr ""
+
+#: views/organization/opportunity/call.php:152
+#: views/organization/opportunity/project.php:135
+#: views/organization/opportunity/mentoring.php:161
+#: views/organization/opportunity/engagement.php:216
+#: views/admin/opportunity/call.php:136 views/admin/opportunity/project.php:130
+#: views/admin/opportunity/mentoring.php:161
+#: views/admin/opportunity/engagement.php:210
+msgid "Phone no"
+msgstr ""
+
+#: views/volunteer/settings.php:245 views/company/settings.php:115
+msgid "PHONE NUMBER"
+msgstr ""
+
+#: templates/registerorganization.php:179
+msgid "PHONE NUMBER (PROFESSIONAL)"
+msgstr ""
+
+#: templates/register.php:78 templates/registerorganization.php:183
+#: models/validation.php:35 views/volunteer/settings.php:98
+#: views/volunteer/settings.php:248 views/organization/settings.php:221
+#: views/company/settings.php:118 views/organization/opportunity/call.php:155
+#: views/organization/opportunity/project.php:138
+#: views/organization/opportunity/mentoring.php:164
+#: views/organization/opportunity/engagement.php:219
+#: views/admin/users/editCompany.php:102 views/admin/opportunity/call.php:139
+#: views/admin/opportunity/project.php:133
+#: views/admin/opportunity/mentoring.php:164
+#: views/admin/opportunity/engagement.php:213
+msgid ""
+"Phone number must contain only numbers and + sign (min: 8, max: 15 chars)"
+msgstr ""
+
+#: views/organization/settings.php:217 views/admin/users/editCompany.php:98
+msgid "PHONE NUMBER PROFFESSIONAL"
+msgstr ""
+
+#: templates/registerorganization.php:139 views/organization/settings.php:174
+msgid "Please check at least 1 Goal"
+msgstr ""
+
+#: templates/registerorganization.php:138 views/organization/settings.php:173
+msgid "Please check at least 1 Main Goal"
+msgstr ""
+
+#: templates/register.php:130 views/volunteer/settings.php:195
+#: views/volunteer/settings.php:208
+msgid "Please check at least 3 goals"
+msgstr ""
+
+#: templates/register.php:149
+msgid "Please check at least 3 skills"
+msgstr ""
+
+#: views/volunteer/evaluate/sidebar.php:34
+msgid ""
+"Please comment on your work and the collaboration with the organization!"
+msgstr ""
+
+#: views/volunteer/evaluate/sidebar.php:104
+msgid "Please comment on your work and the collaboration with volunteer!"
+msgstr ""
+
+#: views/volunteer/evaluate/sidebar.php:69
+#: views/volunteer/evaluate/sidebar.php:140
+msgid "Please comment the cancelation!"
+msgstr ""
+
+#: templates/thankyou.php:15
+msgid ""
+"Please confirm your signup by clicking the link in the email we just send to "
+"your email address"
+msgstr ""
+
+#: templates/register.php:154
+msgid ""
+"Please contact me and explain me how I can make the most of the platform"
+msgstr ""
+
+#: templates/registerorganization.php:204
+msgid ""
+"Please contact me and explain me how we can make the most of the platform"
+msgstr ""
+
+#: views/organization/opportunity/project.php:72
+#: views/admin/opportunity/project.php:67
+msgid "Please describe the deliverables you expected and your desired benefits"
+msgstr ""
+
+#: views/volunteer/evaluate/textareas.php:4
+msgid "Please drop a line about the cancellation:"
+msgstr ""
+
+#: views/volunteer/evaluate/textareas.php:39
+msgid ""
+"Please drop a line about volunteer's work and the collaboration with the "
+"volunteer:"
+msgstr ""
+
+#: views/volunteer/evaluate/textareas.php:7
+msgid ""
+"Please drop a line about your work and the collaboration with the "
+"organization:"
+msgstr ""
+
+#: views/volunteer/evaluate/sidebar.php:53
+#: views/volunteer/evaluate/sidebar.php:124
+msgid "Please evaluate the opportunity."
+msgstr ""
+
+#: views/volunteer/evaluate/textareas.php:16
+#: views/volunteer/evaluate/textareas.php:44
+msgid "Please fill this box to save evaluation."
+msgstr ""
+
+#: views/organization/manage-opportunity.php:213
+msgid ""
+"Please reject the volunteers application only if you are sure that he or she "
+"is not the right for the job to be done"
+msgstr ""
+
+#: views/organization/manage-opportunity.php:210
+msgid ""
+"Please reject the volunteers application only if you found out in a "
+"conversation with the volunteer that he or she is not the right for the job "
+"to be done"
+msgstr ""
+
+#: views/volunteer/opportunities/sidebar.php:256
+msgid ""
+"Please remember: If you take over this opportunity, colleagues also "
+"interested in it will receive a cancellation. So please only take over if "
+"you want to start seriously."
+msgstr ""
+
+#: views/organization/manage-opportunity.php:339
+msgid ""
+"Please retract the request you sent to a volunteer only when you found out "
+"in a conversation with the volunteer that he or she is not the right for the "
+"job to be done."
+msgstr ""
+
+#: templates/registerorganization.php:115
+msgid "Please select the sustainable development goals of your organization"
+msgstr ""
+
+#: views/organization/opportunity/call.php:35
+#: views/admin/opportunity/call.php:35
+msgid "Please select the Topic of your Call"
+msgstr ""
+
+#: templates/thankyou.php:19 views/login-form.php:49 views/signup.php:23
+msgid "Please send me the confirmation email again"
+msgstr ""
+
+#: views/volunteer/opportunities/sidebar.php:274
+msgid ""
+"Please try to get in contact with the organization in the next 24 hour via "
+"email or telephone and talk about the next steps.  "
+msgstr ""
+
+#: views/organization/manage-opportunity.php:274
+msgid ""
+"Please try to make contact with the volunteer in the next 24 hours via email "
+"or telephone and talk about the next steps."
+msgstr ""
+
+#: views/organization/opportunity/project.php:81
+#: views/admin/opportunity/project.php:76
+msgid "Please type in additional details if worth mentioning"
+msgstr ""
+
+#: views/organization/opportunity/engagement.php:75
+#: views/admin/opportunity/engagement.php:73
+msgid ""
+"Please type in information concerning frequency, duration and time frame of "
+"the engagement"
+msgstr ""
+
+#: views/organization/opportunity/mentoring.php:67
+#: views/admin/opportunity/mentoring.php:67
+msgid ""
+"Please type in your expectation concerning frequency, duration and time "
+"frame of the mentorship"
+msgstr ""
+
+#: views/organization/opportunity/call.php:6 views/admin/opportunity/call.php:6
+msgid "Post a call"
+msgstr ""
+
+#: views/organization/opportunity/mentoring.php:6
+#: views/admin/opportunity/mentoring.php:6
+msgid "Post a mentoring"
+msgstr ""
+
+#: views/organization/opportunity/project.php:6
+#: views/admin/opportunity/project.php:6
+msgid "Post a project"
+msgstr ""
+
+#: views/organization/opportunity/engagement.php:6
+#: views/admin/opportunity/engagement.php:6
+msgid "Post an Engagement"
+msgstr ""
+
+#: views/organization/dashboard.php:212
+msgid "POST NEW OPPORTUNITY"
+msgstr ""
+
+#: views/organization/opportunities/sidebar.php:23
+#: views/organization/manage/sidebar.php:19
+msgid "POST OPPORTUNITY"
+msgstr ""
+
+#: views/organization/opportunity/call.php:174
+#: views/organization/opportunity/call.php:183
+#: views/organization/opportunity/project.php:157
+#: views/organization/opportunity/project.php:166
+#: views/organization/opportunity/mentoring.php:183
+#: views/organization/opportunity/mentoring.php:192
+msgid "POST THE CALL"
+msgstr ""
+
+#: views/organization/opportunity/engagement.php:238
+#: views/organization/opportunity/engagement.php:247
+msgid "POST THE ENGAGEMENT"
+msgstr ""
+
+#: views/volunteer/opportunities/call.php:87
+#: views/volunteer/opportunities/project.php:84
+#: views/volunteer/opportunities/mentoring.php:61
+#: views/volunteer/opportunities/engagement.php:61
+#: views/volunteer/evaluate/call.php:88 views/volunteer/evaluate/project.php:18
+#: views/volunteer/evaluate/mentoring.php:19
+#: views/volunteer/evaluate/engagement.php:19
+#: views/organization/opportunity/call.php:243
+#: views/organization/opportunity/project.php:226
+#: views/organization/opportunity/mentoring.php:251
+#: views/organization/opportunity/engagement.php:306
+#: views/organization/opportunities/call.php:12
+#: views/organization/opportunities/project.php:12
+#: views/organization/opportunities/mentoring.php:12
+#: views/organization/opportunities/engagement.php:12
+#: views/organization/manage/call.php:16
+#: views/organization/manage/project.php:11
+#: views/organization/manage/mentoring.php:11
+#: views/organization/manage/engagement.php:11
+#: views/admin/opportunity/call.php:172 views/admin/opportunity/project.php:166
+#: views/admin/opportunity/mentoring.php:199
+#: views/admin/opportunity/engagement.php:247
+msgid "Posted"
+msgstr ""
+
+#: views/organization/dashboard.php:218
+msgid "Prepared and Saved"
+msgstr ""
+
+#: views/organization/opportunity/call.php:161
+#: views/organization/opportunity/project.php:144
+#: views/organization/opportunity/mentoring.php:170
+#: views/organization/opportunity/engagement.php:225
+#: views/admin/opportunity/call.php:145 views/admin/opportunity/project.php:139
+#: views/admin/opportunity/mentoring.php:170
+#: views/admin/opportunity/engagement.php:219
+msgid "PREVIEW"
+msgstr ""
+
+#: views/organization/opportunity/call.php:28
+#: views/organization/opportunity/call.php:240
+#: views/organization/opportunity/project.php:22
+#: views/organization/opportunity/project.php:223
+#: views/organization/opportunity/mentoring.php:28
+#: views/organization/opportunity/mentoring.php:248
+#: views/organization/opportunity/engagement.php:28
+#: views/organization/opportunity/engagement.php:303
+#: views/admin/opportunity/call.php:28 views/admin/opportunity/call.php:159
+#: views/admin/opportunity/project.php:22
+#: views/admin/opportunity/project.php:153
+#: views/admin/opportunity/mentoring.php:28
+#: views/admin/opportunity/mentoring.php:184
+#: views/admin/opportunity/engagement.php:28
+#: views/admin/opportunity/engagement.php:233
+msgid "Preview"
+msgstr ""
+
+#: templates/register.php:162 templates/registerorganization.php:212
+msgid "privacy policy"
+msgstr ""
+
+#: views/admin/users/editCompany.php:39
+msgid "Profil photo"
+msgstr ""
+
+#: views/company/settings.php:57
+msgid "Profile Image"
+msgstr ""
+
+#: templates/registerorganization.php:93 views/volunteer/settings.php:58
+#: views/organization/settings.php:105
+msgid "Profile image"
+msgstr ""
+
+#: templates/register.php:34 views/volunteer/settings.php:44
+#: views/organization/settings.php:44 views/admin/users/editCompany.php:26
+msgid "Profile Info"
+msgstr ""
+
+#: views/company/settings.php:44
+msgid "Profile Settings"
+msgstr ""
+
+#: views/volunteer/opportunities/project.php:77
+#: views/volunteer/evaluate/project.php:8
+#: views/organization/opportunities/project.php:8
+#: views/organization/manage/project.php:5
+msgid "PROJECT"
+msgstr ""
+
+#: views/organization/opportunity/dashboard.php:26
+msgid "Project"
+msgstr ""
+
+#. Name of the plugin
+#. Description of the plugin
+msgid "Purpozed"
+msgstr ""
+
+#: views/volunteer/colleagues.php:8
+msgid "Recently onboarded colleagues"
+msgstr ""
+
+#: templates/regenerateconfirmation.php:13
+msgid "Regenerate confirmation email"
+msgstr ""
+
+#: views/organization/manage-opportunity.php:199
+msgid "REJECT"
+msgstr ""
+
+#: views/volunteer/opportunities/sidebar.php:182
+msgid "REJECT AND REMOVE"
+msgstr ""
+
+#: views/organization/manage-opportunity.php:219
+msgid "REJECT VOLUNTEER"
+msgstr ""
+
+#: views/organization/manage-opportunity.php:205
+msgid "Reject volunteers application"
+msgstr ""
+
+#: views/volunteer/opportunities/sidebar.php:362
+msgid "REMOVE"
+msgstr ""
+
+#: views/volunteer/opportunities/sidebar.php:81
+#: views/volunteer/opportunities/sidebar.php:172
+msgid "REMOVE FROM DASHBOARD"
+msgstr ""
+
+#: views/volunteer/settings.php:275 views/organization/settings.php:243
+msgid "REPEAT NEW PASSWORD"
+msgstr ""
+
+#: views/organization/manage-opportunity.php:706
+#: views/organization/manage-opportunity.php:727
+msgid "REQUEST"
+msgstr ""
+
+#: views/organization/manage-opportunity.php:717
+msgid "Request volunteer for taking over this opportunity"
+msgstr ""
+
+#: views/volunteer/opportunities/engagement.php:76
+#: views/volunteer/evaluate/engagement.php:28
+#: views/organization/opportunity/engagement.php:59
+#: views/organization/opportunity/engagement.php:311
+#: views/organization/opportunities/engagement.php:21
+#: views/organization/manage/engagement.php:20
+#: views/admin/opportunity/engagement.php:58
+#: views/admin/opportunity/engagement.php:256
+msgid "Requirements"
+msgstr ""
+
+#: templates/regenerateconfirmation.php:38
+msgid "Resend"
+msgstr ""
+
+#: templates/passwordreset.php:35 views/password-reset.php:8
+msgid "Restore"
+msgstr ""
+
+#: views/volunteer/opportunities/sidebar.php:188
+#: views/volunteer/opportunities/sidebar.php:396
+msgid "RETRACT APPLICATION"
+msgstr ""
+
+#: views/volunteer/opportunities/sidebar.php:389
+msgid "Retract application"
+msgstr ""
+
+#: views/organization/manage-opportunity.php:89
+#: views/organization/manage-opportunity.php:103
+#: views/organization/opportunities/sidebar.php:10
+#: views/organization/opportunities/sidebar.php:97
+#: views/organization/manage/sidebar.php:9
+#: views/organization/manage/sidebar.php:64
+msgid "RETRACT OPPORTUNITY"
+msgstr ""
+
+#: views/organization/manage-opportunity.php:96
+#: views/organization/opportunities/sidebar.php:90
+#: views/organization/manage/sidebar.php:59
+msgid "Retract opportunity"
+msgstr ""
+
+#: views/organization/manage-opportunity.php:324
+#: views/organization/manage-opportunity.php:343
+msgid "RETRACT REQUEST"
+msgstr ""
+
+#: views/organization/manage-opportunity.php:335
+msgid "Retract the request you sent to the volunteer"
+msgstr ""
+
+#: views/volunteer/settings.php:52 views/organization/settings.php:50
+#: views/company/settings.php:51 views/admin/users/editCompany.php:33
+msgid "SAVE"
+msgstr ""
+
+#: views/volunteer/evaluate/sidebar.php:20
+msgid "SAVE AND CANCEL PREMATURELY"
+msgstr ""
+
+#: views/organization/opportunity/call.php:177
+#: views/organization/opportunity/call.php:186
+#: views/organization/opportunity/project.php:160
+#: views/organization/opportunity/project.php:169
+#: views/organization/opportunity/mentoring.php:186
+#: views/organization/opportunity/mentoring.php:195
+#: views/organization/opportunity/engagement.php:241
+#: views/organization/opportunity/engagement.php:250
+msgid "SAVE AND POST LATER"
+msgstr ""
+
+#: views/admin/opportunity/sidebar.php:8
+msgid "SAVE CHANGES"
+msgstr ""
+
+#: views/volunteer/evaluate/sidebar.php:38
+#: views/volunteer/evaluate/sidebar.php:57
+#: views/volunteer/evaluate/sidebar.php:76
+#: views/volunteer/evaluate/sidebar.php:108
+#: views/volunteer/evaluate/sidebar.php:128
+#: views/volunteer/evaluate/sidebar.php:147
+#: views/organization/opportunities/sidebar.php:73
+msgid "SAVE YOUR EVALUATION"
+msgstr ""
+
+#: views/organization/opportunity/call.php:138
+#: views/organization/opportunity/project.php:121
+#: views/organization/opportunity/mentoring.php:147
+#: views/organization/opportunity/engagement.php:202
+#: views/admin/opportunity/call.php:122 views/admin/opportunity/project.php:116
+#: views/admin/opportunity/mentoring.php:147
+#: views/admin/opportunity/engagement.php:196
+msgid "Second name"
+msgstr ""
+
+#: views/organization/manage-opportunity.php:195
+msgid "SELECT"
+msgstr ""
+
+#: views/volunteer/settings.php:66 views/admin/users/editCompany.php:48
+msgid "SELECT PICTURE"
+msgstr ""
+
+#: views/organization/manage-opportunity.php:259
+msgid "SELECT VOLUNTEER"
+msgstr ""
+
+#: views/organization/manage-opportunity.php:249
+msgid "Select volunteer for opportunity"
+msgstr ""
+
+#: views/volunteer/opportunities/sidebar.php:163
+#: views/volunteer/evaluate/sidebar.php:48
+#: views/volunteer/evaluate/sidebar.php:84
+#: views/volunteer/evaluate/sidebar.php:119
+#: views/volunteer/evaluate/sidebar.php:155
+#: views/organization/opportunities/sidebar.php:80
+msgid "SEND A REMINDER"
+msgstr ""
+
+#: views/volunteer/settings.php:15 views/organization/settings.php:15
+#: views/company/settings.php:15
+msgid "Send confirmation email again"
+msgstr ""
+
+#: views/company/company-area.php:16 views/company/company-area.php:43
+#: views/company/company-area.php:70 views/company/company-area.php:101
+msgid "Signed up Employees"
+msgstr ""
+
+#: views/signup.php:6
+msgid "Signup"
+msgstr ""
+
+#: views/signup.php:10
+msgid "SIGNUP AS A VOLUNTEER"
+msgstr ""
+
+#: views/signup.php:13
+msgid "SIGNUP AS AN ORGANIZATION"
+msgstr ""
+
+#: templates/registerorganization.php:15
+msgid "Signup organization"
+msgstr ""
+
+#: templates/register.php:15
+msgid "Signup volunteers"
+msgstr ""
+
+#: views/company/company-employees.php:24
+msgid "Since"
+msgstr ""
+
+#: templates/register.php:46 views/volunteer/profile.php:40
+#: views/volunteer/volunteer-profile-preview.php:61
+msgid "Skills"
+msgstr ""
+
+#: views/organization/profile.php:71 views/organization/settings.php:119
+#: views/organization/organization-profile-preview.php:64
+#: views/company/settings.php:132 views/admin/users/editCompany.php:123
+msgid "Social Media Links"
+msgstr ""
+
+#: views/organization/settings.php:133
+msgid "SOCIAL NETWORK"
+msgstr ""
+
+#: templates/confirmregistration.php:25 templates/regenerateconfirmation.php:22
+msgid "Something gone wrong. Check your email or register again"
+msgstr ""
+
+#: views/volunteer/opportunities/sidebar.php:289
+msgid "Something gone wrong. Please try again."
+msgstr ""
+
+#: views/login-form.php:36
+msgid "Stay logged in"
+msgstr ""
+
+#: templates/registerorganization.php:61 views/organization/settings.php:70
+#: views/company/settings.php:90 views/admin/users/editCompany.php:73
+msgid "Street must contain letters only (min: 2, max: 50)"
+msgstr ""
+
+#: templates/registerorganization.php:58 views/organization/settings.php:66
+#: views/company/settings.php:86 views/admin/users/editCompany.php:69
+msgid "STREET, NUMBER"
+msgstr ""
+
+#: views/company/company-area.php:181
+msgid "Succeeded Opportunities"
+msgstr ""
+
+#: views/volunteer/profile.php:18
+#: views/volunteer/volunteer-profile-preview.php:18
+#: views/organization/profile.php:21
+#: views/organization/organization-profile-preview.php:21
+#: views/volunteer/opportunities/organziation-info.php:16
+#: views/volunteer/evaluate/organziation-info.php:16
+#: views/organization/opportunity/call.php:275
+#: views/organization/opportunity/project.php:250
+#: views/organization/opportunity/mentoring.php:282
+#: views/organization/opportunity/engagement.php:342
+#: views/organization/opportunities/call.php:55
+#: views/organization/opportunities/project.php:53
+#: views/organization/opportunities/mentoring.php:47
+#: views/organization/opportunities/engagement.php:55
+#: views/organization/manage/call.php:60
+#: views/organization/manage/project.php:52
+#: views/organization/manage/mentoring.php:50
+#: views/organization/manage/engagement.php:54
+msgid "succeeded opportunities"
+msgstr ""
+
+#: views/organization/dashboard.php:596
+msgid "Succeeded volunteers"
+msgstr ""
+
+#: views/volunteer/settings.php:88
+msgid "SURNAME"
+msgstr ""
+
+#: templates/register.php:71 templates/registerorganization.php:159
+#: views/volunteer/settings.php:91 views/organization/settings.php:195
+msgid "Surname must contain letters only (min: 2, max: 50)"
+msgstr ""
+
+#: models/validation.php:29
+msgid "Surname must contain letters only (min: 2, max: 50)."
+msgstr ""
+
+#: views/organization/settings.php:148
+msgid "Sustainable Development Goals"
+msgstr ""
+
+#: views/volunteer/opportunities/sidebar.php:178
+msgid "TAKE OVER"
+msgstr ""
+
+#: views/volunteer/opportunities/sidebar.php:258
+msgid "TAKE OVER OPPORTUNITY"
+msgstr ""
+
+#: views/organization/opportunity/project.php:10
+#: views/organization/opportunity/engagement.php:10
+#: views/admin/opportunity/project.php:10
+#: views/admin/opportunity/engagement.php:10
+msgid "Task"
+msgstr ""
+
+#: views/volunteer/dashboard.php:1024
+#: views/volunteer/volunteer-profile-preview.php:44
+#: views/volunteer/opportunities/sidebar.php:341
+#: views/organization/opportunity/call.php:299
+#: views/organization/opportunity/project.php:274
+msgid "Telephone"
+msgstr ""
+
+#: templates/register.php:160 templates/registerorganization.php:210
+msgid "terms and conditions"
+msgstr ""
+
+#: templates/confirmregistration.php:18
+msgid "Thank you for confirm! Your account is now active. Click"
+msgstr ""
+
+#: views/admin/opportunity/top-bar.php:8
+msgid "Thank you for editing this opportunity"
+msgstr ""
+
+#: views/volunteer/evaluate/sidebar.php:197
+msgid "Thank you for evaluation of this opportunity"
+msgstr ""
+
+#: views/organization/opportunity/top-bar.php:5
+msgid "Thank you for posting this opportunity"
+msgstr ""
+
+#: views/volunteer/opportunities/sidebar.php:234
+msgid "Thank you for your application for this opportunity"
+msgstr ""
+
+#: views/organization/dashboard.php:338 views/organization/dashboard.php:482
+#: views/organization/dashboard.php:634
+#: views/organization/opportunity/call.php:221
+#: views/organization/opportunity/project.php:204
+#: views/organization/opportunity/mentoring.php:230
+#: views/organization/opportunity/engagement.php:285
+#: views/organization/opportunities/sidebar.php:55
+#: views/organization/manage/sidebar.php:43
+msgid "The Opportunity has beed deleted sucessfully"
+msgstr ""
+
+#: views/organization/manage-opportunity.php:113
+#: views/organization/opportunities/sidebar.php:107
+#: views/organization/manage/sidebar.php:74
+msgid "The Opportunity has beed retracted sucessfully"
+msgstr ""
+
+#: views/volunteer/evaluate/sidebar.php:67
+msgid ""
+"The organization has canceled the opportunity prematurely and commented\n"
+"                                it."
+msgstr ""
+
+#: views/volunteer/evaluate/sidebar.php:52
+msgid ""
+"The organization has succeeded the opportunity and already commented it."
+msgstr ""
+
+#: views/volunteer/evaluate/sidebar.php:115
+msgid ""
+"The organization has succeeded this opportunity but the volunteer did not "
+"comment it yet."
+msgstr ""
+
+#: views/volunteer/evaluate/sidebar.php:151
+msgid ""
+"The organization have canceled this opportunity but the volunteer did not "
+"comment it yet."
+msgstr ""
+
+#: views/volunteer/opportunities/sidebar.php:466
+#: views/volunteer/evaluate/sidebar.php:225
+msgid "The reminder has been send successfully!"
+msgstr ""
+
+#: views/volunteer/opportunities/engagement.php:72
+#: views/volunteer/evaluate/engagement.php:24
+#: views/organization/opportunity/engagement.php:51
+#: views/organization/opportunities/engagement.php:17
+#: views/organization/manage/engagement.php:16
+#: views/admin/opportunity/engagement.php:50
+msgid "The Task"
+msgstr ""
+
+#: views/organization/opportunity/engagement.php:309
+#: views/admin/opportunity/engagement.php:252
+msgid "The task"
+msgstr ""
+
+#: views/organization/opportunity/engagement.php:34
+#: views/admin/opportunity/engagement.php:34
+msgid "The Title"
+msgstr ""
+
+#: views/volunteer/evaluate/sidebar.php:138
+msgid ""
+"The volunteer has canceled the opportunity prematurely and commented\n"
+"                                it."
+msgstr ""
+
+#: views/volunteer/opportunities/engagement.php:68
+#: views/volunteer/evaluate/engagement.php:20
+#: views/organization/opportunities/engagement.php:13
+#: views/organization/manage/engagement.php:12
+msgid "The Why"
+msgstr ""
+
+#: views/organization/opportunity/engagement.php:43
+#: views/organization/opportunity/engagement.php:307
+#: views/admin/opportunity/engagement.php:42
+#: views/admin/opportunity/engagement.php:248
+msgid "The why"
+msgstr ""
+
+#: templates/regenerateconfirmation.php:24
+msgid "There is no such email in our database"
+msgstr ""
+
+#: views/volunteer/settings.php:197
+msgid "These are Goals I would like to support"
+msgstr ""
+
+#: templates/register.php:120
+msgid ""
+"These are goals I would like to support (please choose at least 3 goals):"
+msgstr ""
+
+#: views/volunteer/settings.php:184
+msgid "These are my skills I can help with"
+msgstr ""
+
+#: templates/register.php:139
+msgid "These are my skills I can help with (please choose at least 3 skills):"
+msgstr ""
+
+#: views/organization/dashboard.php:361
+msgid "These are opportunities one or more volunteers currently working on."
+msgstr ""
+
+#: views/organization/dashboard.php:219
+msgid "These are opportunities that are not visible for volunteers yet."
+msgstr ""
+
+#: views/organization/dashboard.php:20 views/organization/dashboard.php:22
+msgid ""
+"These are opportunities that are visible for volunteers and you are "
+"searching volunteers for."
+msgstr ""
+
+#: views/organization/dashboard.php:505
+msgid ""
+"These are opportunities that were either succeeded or canceled prematurely "
+"by you or the volunteer."
+msgstr ""
+
+#: views/volunteer/dashboard.php:592
+msgid ""
+"These are opportunities you are requested for from Organizations. Start "
+"right away, if you want!"
+msgstr ""
+
+#: views/volunteer/dashboard.php:1044
+msgid ""
+"These are the opportunities you have either succeeded at or were canceled "
+"prematurely"
+msgstr ""
+
+#: views/volunteer/dashboard.php:34
+msgid "These opportunities fit to your skills and/or your goals. Apply now!"
+msgstr ""
+
+#: views/organization/manage-opportunity.php:761
+msgid "These volunteers are currently working on this"
+msgstr ""
+
+#: views/organization/manage-opportunity.php:169
+msgid ""
+"These volunteers have applied for this opportunity and are currently waiting "
+"for your approval"
+msgstr ""
+
+#: views/organization/manage-opportunity.php:377
+msgid "These volunteers have fitting skills and you can send them a request"
+msgstr ""
+
+#: views/organization/manage-opportunity.php:298
+msgid "These volunteers were requested by you but did not took over yet"
+msgstr ""
+
+#: views/organization/opportunity/call.php:104
+#: views/organization/opportunity/project.php:75
+#: views/organization/opportunity/project.php:86
+#: views/admin/opportunity/call.php:88 views/admin/opportunity/project.php:70
+#: views/admin/opportunity/project.php:81
+msgid "This field can not be empty"
+msgstr ""
+
+#: views/organization/opportunity/call.php:106
+#: views/organization/opportunity/engagement.php:63
+#: views/admin/opportunity/call.php:90
+#: views/admin/opportunity/engagement.php:61
+msgid "This field must have max 200 characters"
+msgstr ""
+
+#: views/organization/opportunity/project.php:77
+#: views/organization/opportunity/project.php:88
+#: views/organization/opportunity/mentoring.php:55
+#: views/admin/opportunity/project.php:72
+#: views/admin/opportunity/project.php:83
+#: views/admin/opportunity/mentoring.php:55
+msgid "This field must have max 300 characters"
+msgstr ""
+
+#: views/admin/opportunity/engagement.php:45
+#: views/admin/opportunity/engagement.php:53
+msgid "This field must have max 400 characters"
+msgstr ""
+
+#: views/organization/opportunity/engagement.php:46
+#: views/organization/opportunity/engagement.php:54
+msgid "This field must have max 600 characters"
+msgstr ""
+
+#: views/volunteer/volunteer-profile-preview.php:38
+msgid "This is the contact information of the volunteer"
+msgstr ""
+
+#: views/volunteer/dashboard.php:1005
+#: views/volunteer/opportunities/sidebar.php:335
+msgid "This is the contact person for this particular opportunity"
+msgstr ""
+
+#: views/volunteer/opportunities/sidebar.php:373
+#: views/volunteer/opportunities/sidebar.php:407
+msgid "This opportunity has been removed from your list"
+msgstr ""
+
+#: views/organization/opportunities/sidebar.php:13
+#: views/organization/manage/sidebar.php:11
+msgid "This Opportunity has been retracted"
+msgstr ""
+
+#: views/volunteer/opportunities/sidebar.php:201
+msgid "This Opportunity is already bookmarked"
+msgstr ""
+
+#: views/volunteer/evaluate/sidebar.php:88
+#: views/volunteer/evaluate/sidebar.php:159
+msgid "This opportunity is canceled and commented by you and the organization."
+msgstr ""
+
+#: views/volunteer/opportunities/sidebar.php:443
+msgid ""
+"This opportunity is not completed but you want to cancel it prematurely?"
+msgstr ""
+
+#: views/volunteer/evaluate/sidebar.php:123
+msgid "This opportunity is succeeded and commented by the volunteer."
+msgstr ""
+
+#: views/volunteer/evaluate/sidebar.php:61
+#: views/volunteer/evaluate/sidebar.php:132
+msgid ""
+"This opportunity is succeeded and commented by you and the organization."
+msgstr ""
+
+#: views/volunteer/dashboard.php:1052 views/volunteer/dashboard.php:1305
+msgid ""
+"This opportunity unfortunately has been assigned to an other volunteer. You "
+"will find other exciting opportunities!"
+msgstr ""
+
+#: views/volunteer/dashboard.php:340 views/volunteer/dashboard.php:598
+msgid ""
+"This opportunity unfortunately has been retracted by the organization. You "
+"will find other exciting opportunities!"
+msgstr ""
+
+#: views/volunteer/dashboard.php:342 views/volunteer/dashboard.php:600
+#: views/volunteer/dashboard.php:1054 views/volunteer/dashboard.php:1307
+msgid ""
+"This opportunity unfortunately has expired. You will find other exciting "
+"opportunities!"
+msgstr ""
+
+#: views/volunteer/opportunities/sidebar.php:323
+msgid "This opportuniy has beed added to your bookmarked list."
+msgstr ""
+
+#: views/organization/opportunity/mentoring.php:16
+#: views/organization/opportunity/engagement.php:16
+#: views/admin/opportunity/mentoring.php:16
+#: views/admin/opportunity/engagement.php:16
+msgid "Time"
+msgstr ""
+
+#: views/volunteer/opportunities/mentoring.php:83
+#: views/volunteer/opportunities/engagement.php:87
+#: views/volunteer/evaluate/mentoring.php:35
+#: views/volunteer/evaluate/engagement.php:39
+#: views/organization/opportunity/mentoring.php:101
+#: views/organization/opportunity/mentoring.php:265
+#: views/organization/opportunity/engagement.php:109
+#: views/organization/opportunity/engagement.php:320
+#: views/organization/opportunities/mentoring.php:28
+#: views/organization/opportunities/engagement.php:32
+#: views/organization/manage/mentoring.php:31
+#: views/organization/manage/engagement.php:31
+#: views/admin/opportunity/mentoring.php:101
+#: views/admin/opportunity/mentoring.php:220
+#: views/admin/opportunity/engagement.php:107
+#: views/admin/opportunity/engagement.php:269
+msgid "Time frame at least"
+msgstr ""
+
+#: views/volunteer/opportunities/mentoring.php:78
+#: views/volunteer/opportunities/engagement.php:82
+#: views/volunteer/evaluate/mentoring.php:30
+#: views/volunteer/evaluate/engagement.php:34
+#: views/organization/opportunities/mentoring.php:23
+#: views/organization/opportunities/engagement.php:27
+#: views/organization/manage/mentoring.php:22
+#: views/organization/manage/engagement.php:26
+#: views/admin/opportunity/mentoring.php:210
+#: views/admin/opportunity/engagement.php:262
+msgid "Time requirement at least"
+msgstr ""
+
+#: views/organization/opportunity/mentoring.php:260
+#: views/organization/opportunity/engagement.php:315
+msgid "Time requirement at least 12 hours"
+msgstr ""
+
+#: views/volunteer/settings.php:74 views/volunteer/settings.php:168
+#: views/company/settings.php:146 views/admin/users/editCompany.php:138
+msgid "TITLE"
+msgstr ""
+
+#: templates/register.php:53
+msgid "TITLE (academic)"
+msgstr ""
+
+#: templates/register.php:57 templates/registerorganization.php:167
+#: models/validation.php:16 views/volunteer/settings.php:77
+#: views/volunteer/settings.php:237 views/organization/settings.php:203
+#: views/organization/settings.php:209 views/admin/users/editCompany.php:109
+msgid "Title must contain letters only (min: 2, max: 20)"
+msgstr ""
+
+#: views/volunteer/dashboard.php:959
+#: views/volunteer/opportunities/sidebar.php:428
+msgid ""
+"To complete this opportunity, please write a comment about your work and the "
+"collaboration with the organization"
+msgstr ""
+
+#: views/organization/opportunity/call.php:10
+#: views/admin/opportunity/call.php:10
+msgid "Topic"
+msgstr ""
+
+#: views/organization/opportunity/mentoring.php:114
+#: views/organization/opportunity/engagement.php:156
+#: views/admin/opportunity/mentoring.php:114
+#: views/admin/opportunity/engagement.php:154
+msgid "Total time requirement at least"
+msgstr ""
+
+#: views/volunteer/settings.php:159 views/organization/settings.php:124
+#: views/company/settings.php:137 views/admin/users/editCompany.php:129
+msgid "URL"
+msgstr ""
+
+#: templates/register.php:21 templates/registerorganization.php:21
+msgid "Username already exists"
+msgstr ""
+
+#: views/volunteer/dashboard.php:995
+#: views/organization/manage-opportunity.php:242
+msgid "VIEW PROFILE"
+msgstr ""
+
+#: views/organization/dashboard.php:604
+msgid "Volunteer has commented"
+msgstr ""
+
+#: views/volunteer/evaluate/textareas.php:19
+#: views/volunteer/evaluate/textareas.php:33
+msgid "Volunteer's comment:"
+msgstr ""
+
+#: views/organization/manage-opportunity.php:799
+msgid "Volunteers that were either succeeded or canceled prematurely"
+msgstr ""
+
+#: views/organization/dashboard.php:600
+msgid "Volunteers who are waiting for your feedback"
+msgstr ""
+
+#: views/organization/opportunity/top-bar.php:7
+msgid ""
+"We will check your opportunity within the next 24 hours and make it public "
+"or - in case of possible inquiries - get in touch with you respectively. "
+"After publishing you will find this opportunity on your dashboard in the "
+"table \"Posted opportunities\". There you will also find appropriate "
+"volunteers you can get in contact"
+msgstr ""
+
+#: views/volunteer/opportunities/sidebar.php:276
+msgid ""
+"We will inform other interested volunteers about your choice via email in "
+"the coming minutes."
+msgstr ""
+
+#: views/volunteer/opportunities/sidebar.php:239
+msgid ""
+"We will inform the organization about your application in the coming minutes."
+msgstr ""
+
+#: views/organization/manage-opportunity.php:277
+msgid "We wish you success"
+msgstr ""
+
+#: views/volunteer/opportunities/sidebar.php:278
+msgid "We wish you success!"
+msgstr ""
+
+#: views/organization/profile.php:59
+#: views/organization/organization-profile-preview.php:53
+msgid "Website"
+msgstr ""
+
+#: templates/registerorganization.php:82 views/organization/settings.php:91
+#: views/company/settings.php:111 views/admin/users/editCompany.php:94
+msgid "Website link seems incorrect"
+msgstr ""
+
+#: views/organization/profile.php:65
+#: views/organization/organization-profile-preview.php:58
+msgid "Website organization"
+msgstr ""
+
+#: templates/registerorganization.php:79 views/organization/settings.php:88
+#: views/company/settings.php:108 views/admin/users/editCompany.php:91
+msgid "WEBSITE URL"
+msgstr ""
+
+#: views/organization/opportunity/mentoring.php:51
+#: views/admin/opportunity/mentoring.php:51
+msgid "What do you expect from your coming mentor?"
+msgstr ""
+
+#: views/organization/opportunity/project.php:29
+#: views/admin/opportunity/project.php:29
+msgid "What has to be done in your organization"
+msgstr ""
+
+#: views/organization/opportunity/call.php:84
+#: views/admin/opportunity/call.php:68
+msgid "What is your main focus"
+msgstr ""
+
+#: views/organization/opportunity/mentoring.php:52
+#: views/admin/opportunity/mentoring.php:52
+msgid "When will this mentorship be an success for you?"
+msgstr ""
+
+#: views/organization/opportunity/mentoring.php:35
+#: views/admin/opportunity/mentoring.php:35
+msgid "Which area the Mentor should be an expert of?"
+msgstr ""
+
+#: views/organization/opportunity/dashboard.php:3
+msgid "Who are you looking for"
+msgstr ""
+
+#: views/organization/opportunity/engagement.php:189
+msgid "Who is the contact person for this engagement within your organization"
+msgstr ""
+
+#: views/organization/opportunity/call.php:127
+#: views/organization/opportunity/project.php:110
+#: views/organization/opportunity/mentoring.php:136
+#: views/admin/opportunity/call.php:111 views/admin/opportunity/project.php:105
+#: views/admin/opportunity/mentoring.php:136
+#: views/admin/opportunity/engagement.php:185
+msgid "Who will participate in the Call"
+msgstr ""
+
+#: views/volunteer/dashboard.php:1029
+#: views/volunteer/volunteer-profile-preview.php:48
+#: views/volunteer/opportunities/sidebar.php:344
+#: views/organization/opportunity/call.php:303
+#: views/organization/opportunity/project.php:278
+msgid "WRITE AN EMAIL"
+msgstr ""
+
+#: views/volunteer/opportunities/sidebar.php:451
+msgid ""
+"Yes, I told the organization about my cancellation and I tried to clarify "
+"things if necessary"
+msgstr ""
+
+#: views/volunteer/opportunities/sidebar.php:223
+msgid "YES, I WANT TO APPLY"
+msgstr ""
+
+#: views/volunteer/evaluate/sidebar.php:186
+msgid "YES, I WANT TO EVALUATE"
+msgstr ""
+
+#: views/organization/opportunity/call.php:113
+#: views/organization/opportunity/project.php:97
+#: views/organization/opportunity/mentoring.php:122
+#: views/organization/opportunity/engagement.php:164
+#: views/admin/opportunity/call.php:97 views/admin/opportunity/project.php:92
+#: views/admin/opportunity/mentoring.php:122
+#: views/admin/opportunity/engagement.php:162
+msgid "Yes, please delete this opportunity on the following date"
+msgstr ""
+
+#: views/organization/opportunity/dashboard.php:41
+msgid ""
+"You are looking for experienced experts, who want to accompany you for a "
+"specified period of time as a mentor."
+msgstr ""
+
+#: views/organization/opportunity/dashboard.php:30
+msgid ""
+"You are looking for professionals, who can implement skill-based projects "
+"for you."
+msgstr ""
+
+#: views/organization/opportunity/dashboard.php:59
+msgid ""
+"You are looking for volunteers who want to engage passionately, but do not "
+"need any specific skills for the activities"
+msgstr ""
+
+#: views/volunteer/opportunities/sidebar.php:394
+msgid ""
+"You are not interested in this opportunity any longer? No problem! If you "
+"retract your application we will inform the organization in the coming "
+"minutes via E-Mail."
+msgstr ""
+
+#: views/volunteer/opportunities/sidebar.php:324
+msgid "You can find it in your dashboard"
+msgstr ""
+
+#: views/volunteer/evaluate/sidebar.php:211
+msgid "You canceled this opportunity successfully!"
+msgstr ""
+
+#: views/volunteer/opportunities/sidebar.php:275
+msgid "You find the contact data of the organization on the opportunity site. "
+msgstr ""
+
+#: views/organization/manage-opportunity.php:276
+msgid ""
+"You find this opportunitiy from now onwards in the dashboard section \"In "
+"Progress\"."
+msgstr ""
+
+#: views/volunteer/opportunities/sidebar.php:277
+msgid ""
+"You find this opportunitiy from now onwards on your dashboard in the table "
+"\"In Progress\"."
+msgstr ""
+
+#: views/organization/opportunity/top-bar.php:17
+msgid ""
+"You find this opportunity from now onwards on your dashboard in the table "
+"\"Saved opportunities\". From there you can open it again, edit and post it."
+msgstr ""
+
+#: templates/confirmregistration.php:21 templates/regenerateconfirmation.php:20
+msgid "You have already confirmed your email! Click"
+msgstr ""
+
+#: views/volunteer/evaluate/sidebar.php:80
+msgid ""
+"You have canceled and commented this opportunity but the organization did "
+"not comment it yet."
+msgstr ""
+
+#: views/organization/opportunity/dashboard.php:19
+msgid ""
+"You have specific questions you want to ask an expert or need a feedback or "
+"an advice on a particular topic."
+msgstr ""
+
+#: views/organization/opportunities/sidebar.php:69
+msgid ""
+"You have succeeded this opportunity but the organization did not comment it "
+"yet"
+msgstr ""
+
+#: views/volunteer/evaluate/sidebar.php:44
+msgid ""
+"You have succeeded this opportunity but the organization did not comment it "
+"yet."
+msgstr ""
+
+#: views/organization/opportunity/mentoring.php:48
+#: views/admin/opportunity/mentoring.php:48
+msgid "You have to choose Area of Expertise"
+msgstr ""
+
+#: views/organization/opportunity/project.php:54
+#: views/admin/opportunity/project.php:53
+msgid "You have to choose at least one Task"
+msgstr ""
+
+#: views/organization/opportunity/call.php:58
+#: views/admin/opportunity/call.php:58
+msgid "You have to choose at least one Topic"
+msgstr ""
+
+#: views/organization/opportunity/call.php:97
+#: views/admin/opportunity/call.php:81
+msgid "You have to choose one Focus"
+msgstr ""
+
+#: templates/register.php:163 templates/registerorganization.php:213
+msgid "You have to confirm terms and conditions"
+msgstr ""
+
+#: models/validation.php:79
+msgid "You must check at least 3 skills"
+msgstr ""
+
+#: views/organization/manage-opportunity.php:229
+msgid "You Rejected volunteer successfully"
+msgstr ""
+
+#: views/organization/manage-opportunity.php:737
+msgid "You requested the volunteer successfully!"
+msgstr ""
+
+#: views/organization/manage-opportunity.php:353
+msgid "You Retract the request you sent to the volunteer successfully"
+msgstr ""
+
+#: views/organization/opportunity/top-bar.php:15
+msgid "You saved this posting successfully"
+msgstr ""
+
+#: views/volunteer/evaluate/sidebar.php:14
+msgid ""
+"You want to cancel this opportunity prematurely? Please comment about the "
+"reason!"
+msgstr ""
+
+#: views/organization/dashboard.php:325 views/organization/dashboard.php:469
+#: views/organization/dashboard.php:621
+#: views/organization/opportunity/call.php:209
+#: views/organization/opportunity/project.php:192
+#: views/organization/opportunity/mentoring.php:218
+#: views/organization/opportunity/engagement.php:273
+#: views/organization/opportunities/sidebar.php:43
+#: views/organization/manage/sidebar.php:32
+msgid "You want to delete this opportunity"
+msgstr ""
+
+#: views/organization/manage-opportunity.php:100
+#: views/organization/opportunities/sidebar.php:94
+#: views/organization/manage/sidebar.php:63
+msgid ""
+"You want to retract this opportunity? Please note that all volunteers "
+"requested by you and applied for this oppportunity will be informed "
+"automatically about your retraction via email"
+msgstr ""
+
+#: views/volunteer/evaluate/sidebar.php:33
+#: views/volunteer/evaluate/sidebar.php:103
+msgid "You want to successfully complete this opportunity?"
+msgstr ""
+
+#: views/volunteer/opportunities/sidebar.php:240
+msgid ""
+"You will find this opportunity from now onwards on your dashboard in the "
+"table “Applied."
+msgstr ""
+
+#: views/login-form.php:32
+msgid ""
+"Your account hasn't beed confirmed yet. Check you email and confirm "
+"registration"
+msgstr ""
+
+#: views/volunteer/settings.php:20 views/organization/settings.php:20
+#: views/company/settings.php:20 views/admin/users/editCompany.php:11
+msgid "Your changes has been saved"
+msgstr ""
+
+#: templates/registerorganization.php:149 views/organization/settings.php:183
+msgid "YOUR FORENAME"
+msgstr ""
+
+#: templates/registerorganization.php:163 views/organization/settings.php:199
+msgid "YOUR JOB TITLE WITHIN THE ORGANIZATION"
+msgstr ""
+
+#: templates/registerorganization.php:156 views/organization/settings.php:191
+msgid "YOUR SURNAME"
+msgstr ""
+
+#: templates/registerorganization.php:65 views/volunteer/settings.php:109
+#: views/organization/settings.php:74 views/company/settings.php:94
+#: views/admin/users/editCompany.php:77
+msgid "ZIP CODE"
+msgstr ""
+
+#: templates/registerorganization.php:68 views/volunteer/settings.php:112
+#: views/organization/settings.php:77 views/company/settings.php:97
+#: views/admin/users/editCompany.php:80
+msgid "Zip Code can not be empty"
+msgstr ""
